@@ -1,0 +1,9 @@
+name:           router01
+description:    router
+type:           gateway
+vim_accounts: [ 91b19210-afd2-4dec-a875-ea0a285566b7 ]
+shared:         false
+interfaces:
+ -  name:       eth0
+    ip-address: 172.21.248.51
+    mgmt:       true
