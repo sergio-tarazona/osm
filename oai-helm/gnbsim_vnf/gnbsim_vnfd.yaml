@@ -150,6 +150,7 @@ vnfd:
         virtual-interface:
           type: PARAVIRT
     - id: vdu-eth1-int
+      port-security-enabled: false
       virtual-network-interface-requirement:
       - name: vdu-eth1
         position: 1
