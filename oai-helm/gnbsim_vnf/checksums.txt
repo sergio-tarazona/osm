@@ -3,7 +3,7 @@ ef376c52904ca365e60528fd73cdb04e	gnbsim_vnf/gnbsim_vnfd.yaml
 7ca4a7004f5ae20d7ee9e3913fcc95be	gnbsim_vnf/helm-charts/eechart/Chart.yaml
 833ca4e496bc880962d59881f5df7110	gnbsim_vnf/helm-charts/eechart/source/install_docker.sh
 b6e2fab285eba2d2597fad4dd6276cf7	gnbsim_vnf/helm-charts/eechart/source/install.sh
-acc6b1406bd5fad6bc64d39568783f10	gnbsim_vnf/helm-charts/eechart/source/docker-compose-gnbsim.yaml
+ed29318087e07c139e0634e5b9bbad9a	gnbsim_vnf/helm-charts/eechart/source/docker-compose-gnbsim.yaml
 54d01b806ff95e5056ce6b09f33504e5	gnbsim_vnf/helm-charts/eechart/source/run_ssh.sh
 f934d3535488aefe235124053c840865	gnbsim_vnf/helm-charts/eechart/source/vnf_ee.py
 71e303b14ec4576d8fafc13274d5742c	gnbsim_vnf/helm-charts/eechart/source/playbook.yaml
